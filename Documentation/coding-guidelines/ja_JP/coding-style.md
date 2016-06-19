@@ -23,7 +23,7 @@ C++ファイル(*.cpp and *.h)は、我々はコードスタイルを確保す�
 
 我々はcorefxリポジトリのルートにVisual Studio 2013の設定ファイル (`corefx.vssettings`) を提供していて、C#の自動整形が上記ガイドラインに沿えるようにしている。追記、ルール7と8は現在のVSの整形機能ではサポートしていないので、vssettingsではカバーしていない。
 
-我々はコード ベースが時間をかけて一貫したスタイルを維持し、自動的に上記のガイドラインに適合するようにコード ベースを修正できるように [.NET Codeformatter Tool](https://github.com/dotnet/codeformatter) を使用しています。
+我々はコード ベースが時間をかけて一貫したスタイルを維持し、自動的に上記のガイドラインに適合するようにコード ベースを修正できるように [.NET Codeformatter Tool](https://github.com/dotnet/codeformatter) を使用している。
 
 ### Example File:
 
